@@ -5,10 +5,11 @@
 .utmp/
 Library/
 Temp/
-/[Oo]bj/
+Obj/
+.vs/
 /[Bb]uild/
 /[Bb]uilds/
-/[Ll]ogs/
+Logs/
 /[Uu]ser[Ss]ettings/
 *.log
 
